@@ -67,5 +67,5 @@ http://localhost:8000
 No canto superior direito, contém duas urls. Uma para login e outra para registrar-se. <br>
 Após o login é só navegar de Dashboard para Chirps e começar a utilizar.
 O chirper conta com recursos de criar, editar e excluir, assim como conta com um mecânismo de envio de e-mail assim que novs chirps são criados.
-Para utilizar o mecânismo de notificação de email, leia a documentação do laravel.
-<a href="https://laravel.com/docs/10.x/mail#introduction">
+Para utilizar o mecânismo de notificação de email, leia a documentação do laravel. <br>
+https://laravel.com/docs/10.x/mail#introduction
