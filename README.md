@@ -19,7 +19,7 @@ git clone [https://github.com/seu-usuario/chirps.git](https://github.com/DukaSiq
 Certifique-se de estar no diretório do projeto e execute o comando composer install para instalar todas as dependências do Laravel:
 
 ```bash
-cd chirps
+cd chirper
 composer install
 ```
 
