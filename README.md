@@ -11,7 +11,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local:
 Clone o repositório do GitHub em seu ambiente de desenvolvimento:
 
 ```bash
-git clone [https://github.com/seu-usuario/chirps.git](https://github.com/DukaSiqueira/chirper.git)
+git clone https://github.com/DukaSiqueira/chirper.git
 ```
 
 ### 2. Instalar Dependências
