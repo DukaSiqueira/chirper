@@ -2,9 +2,11 @@
 
 Este é um projeto Laravel chamado "Chirps" que utiliza PHP 8.2 e SQLite como banco de dados.
 
-## Passos para Rodar o Projeto
-
-Siga os passos abaixo para executar o projeto em sua máquina local:
+O Chirper é uma plataforma simples para compartilhar pensamentos e atualizações com seguidores. Ele permite criar, editar e excluir "Chirps" e envia notificações por e-mail para novos Chirps.
+Principais Recursos:
+* Crie e compartilhe "Chirps".
+* Edite e exclua suas postagens.
+* Receba notificações por e-mail de novos Chirps.
 
 ### 1. Clonar o Repositório
 
