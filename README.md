@@ -39,7 +39,15 @@ Execute as migrações para criar as tabelas do banco de dados:
 php artisan migrate
 ```
 
-### 5. Iniciar o Servidor
+### 5. Gerar a chave da aplicação
+
+Execute o comando para gerar a chave da aplicação:
+
+```bash
+php artisan key:generate
+```
+
+### 6. Iniciar o Servidor
 
 Inicie o servidor de desenvolvimento local:
 
@@ -47,10 +55,17 @@ Inicie o servidor de desenvolvimento local:
 php artisan serve
 ```
 
-### 6. Acessar o Projeto
+### 7. Acessar o Projeto
 
 Abra o seu navegador e acesse o projeto no seguinte endereço:
 
 ```arduino
 http://localhost:8000
 ```
+### 7. Utilizar o projeto
+
+No canto superior direito, contém duas urls. Uma para login e outra para registrar-se. <br>
+Após o login é só navegar de Dashboard para Chirps e começar a utilizar.
+O chirper conta com recursos de criar, editar e excluir, assim como conta com um mecânismo de envio de e-mail assim que novs chirps são criados.
+Para utilizar o mecânismo de notificação de email, leia a documentação do laravel.
+<a href="https://laravel.com/docs/10.x/mail#introduction">
